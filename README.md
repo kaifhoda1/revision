@@ -4,3 +4,4 @@ Completed---->
 -OSI model +TCP/IP
 -IP addressing + subnetting
 -Ports & Protocols 
+-Linux Fundamentals
