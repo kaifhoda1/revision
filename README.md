@@ -5,3 +5,4 @@ Completed---->
 -IP addressing + subnetting
 -Ports & Protocols 
 -Linux Fundamentals
+-CCNA PRACTICE
